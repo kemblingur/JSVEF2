@@ -17,6 +17,11 @@ var model = {
 			name: "Hannes Guðmundsson",
 			img: "img/3.jpg",
 			counter: 0
+		},
+		{
+			name: "Guðmundur Hannesson",
+			img: "img/4.jpg",
+			counter: 0
 		}
 	],
 

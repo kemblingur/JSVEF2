@@ -5,7 +5,7 @@ var catModel = '<div class="catContainer"><h1 class="name"></h1><img src="" clas
 var data = [
 	{
 		name: "Jón Gunnarsson",
-		img: "img/unnamed.jpg",
+		img: "img/1.jpg",
 		counter: 0
 	},
 	{
@@ -14,8 +14,13 @@ var data = [
 		counter: 0
 	},
 	{
-		name: "Gunnar Jónsson",
-		img: "img/2.jpg",
+		name: "Hannes Guðmundsson",
+		img: "img/3.jpg",
+		counter: 0
+	},
+	{
+		name: "Guðmundur Hannesson",
+		img: "img/4.jpg",
 		counter: 0
 	}
 ];

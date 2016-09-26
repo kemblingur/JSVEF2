@@ -1,0 +1,11 @@
+Hvað er MVC í hugbúnaðargerð?
+MVC er ákveðin leið til að skipta pörtum hugbúnaðar í þrjá sitthvora, en tengda, hluti. Hver hluti táknar síðan part af hubúnaðarviðmótinu.
+
+Hvernig er MVC í vefþróun frábrugðin MVC í hugbúnaðargerð?
+MVC var upprunalega þróað til nokunar í hugbúnaðargerð á borðtölvum, en hugsunin hefur verið tilfærð á stóran hátt í forritun fyrir veraldarvefinn. Munurinn á milli er samt sá að það getur verið að miklu leyti breytilegt hve mikið af keyrslu tengdum hverjum þriðjungi hugbúnaðarsins á sér stað á vefþjóninum á móti clientinum.
+
+Hverjir eru kostir þess að nota MV* í framenda (SPA og client-side MVC), Hvað gefur það okkur?
+Helsti kostur MV* í framendanum er sá sami og í bakendanum, þessi skipting býður upp á mjög góða hlutskiptingu kóða og gerir okkur þanni kleift að uppfæra og viðhalda vefforritinu á þægilegri máta en annars væri hægt.
+
+Hvað er Databinding?
+Databinding er einfaldlega geta notendans til að hafa áhrif á gögn þjónsins og til baka.
